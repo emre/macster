@@ -33,3 +33,7 @@ or you if you want a spesific path to be macsterized:
 ```
 python -m macster path
 ```
+
+license
+==========
+<a href="http://en.wikipedia.org/wiki/WTFPL">WTFPL</a>
