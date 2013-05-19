@@ -16,7 +16,6 @@ installation
 
 ```
 git clone https://github.com/emre/macster.git
-cd macster
 python setup.py install
 ```
 
