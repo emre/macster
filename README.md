@@ -27,5 +27,4 @@ usage
 
 ```
 python -m macster
-
 ```
