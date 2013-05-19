@@ -22,7 +22,7 @@ python setup.py install
 usage
 =========
 
-* creates .DS_Store in the "." folder recursively.
+creates .DS_Store in the "." folder recursively.
 
 ```
 python -m macster
