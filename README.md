@@ -28,7 +28,7 @@ creates .DS_Store in the "." folder recursively.
 python -m macster
 ```
 
-or you if you want a spesific path to be macsterized:
+or you if you want a specific path to be macsterized:
 
 ```
 python -m macster path
