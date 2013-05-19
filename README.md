@@ -11,8 +11,8 @@ DON'T WORRY.
 
 <img src="https://farm6.staticflickr.com/5133/5433988749_8c36788591.jpg">
 
-
-<a href="https://secure.flickr.com/photos/lovine/5433988749/">(lovely photo of paul lavine)</a>
+"[Nicholas got a haircut](https://secure.flickr.com/photos/lovine/5433988749/)" by Paul Lovine.
+Used under a [Creative Commons Attribution-NonCommercial-NoDerivs license](https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en).
 
 installation
 ==============
