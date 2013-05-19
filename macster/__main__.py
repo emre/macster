@@ -1,6 +1,12 @@
 from macster import macster
+import sys
 
-macster(".")
+if len(sys.argv) == 1:
+    path = "."
+elif len(sys.argv) == 2:
+    path = sys.argv[1]
+
+macster(path)
 
 print 'success'
 
