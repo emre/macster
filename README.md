@@ -9,7 +9,7 @@ DON'T WORRY.
 
 *macster creates .DS_Store files for you.*
 
-<img src="https://raw.github.com/emre/macster/master/hipdog.jpg">
+<img src="https://farm6.staticflickr.com/5133/5433988749_8c36788591.jpg">
 
 
 <a href="https://secure.flickr.com/photos/lovine/5433988749/">(lovely photo of paul lavine)</a>
