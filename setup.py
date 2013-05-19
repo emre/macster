@@ -5,7 +5,7 @@ setup(
     version='0.1',
     packages=['macster', ],
     url='http://github.com/emre/macster',
-    license='MIT',
+    license='WTFPL',
     author='Emre Yilmaz',
     author_email='mail@emreyilmaz.me',
     description='DS_Store generator for your happiness.',
