@@ -27,3 +27,9 @@ usage
 ```
 python -m macster
 ```
+
+or you if you want a spesific path to be macsterized:
+
+```
+python -m macster path
+```
