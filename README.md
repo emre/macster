@@ -11,6 +11,9 @@ DON'T WORRY.
 
 <img src="https://raw.github.com/emre/macster/master/hipdog.jpg">
 
+
+<a href="https://secure.flickr.com/photos/lovine/5433988749/">(lovely photo of paul lavine)</a>
+
 installation
 ==============
 
