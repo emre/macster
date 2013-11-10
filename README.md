@@ -40,3 +40,7 @@ python -m macster path
 license
 ==========
 <a href="http://en.wikipedia.org/wiki/WTFPL">WTFPL</a>
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/emre/macster/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
